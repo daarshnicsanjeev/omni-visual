@@ -1,0 +1,7 @@
+Loading env from: c:\Users\daars\.gemini\antigravity\scratch\omni-visual\.env
+Key loaded: Yes
+Resolving maps.googleapis.com...
+Resolved to: 142.250.67.202
+Testing HTTPS connection...
+HTTP Status: 200
+Success: Connected and retrieved image.
